@@ -1,6 +1,6 @@
-# 企业服务中心 / Enterprise Service Center
+# 企业技术赋能服务业务 / Enterprise Service
 
-面向企业客户的技术赋能服务中心，沉淀客户解决方案、服务手册与交付方法。
+对外客户业务线，面向客户企业提供技术赋能解决方案、服务产品与交付包；不是公司内部自用的企业服务中心。
 
 ## Repository Map
 
@@ -19,7 +19,7 @@
 
 ## Naming note
 
-- 因 GitHub 组织名长度限制，保留 `Business-Unit-for-Enterprise-Service`；语义为 Enterprise Service Center。
+- 因 GitHub 组织名长度限制，保留 `Business-Unit-for-Enterprise-Service`；语义为对外 Enterprise Service 业务线，服务对象是客户企业。
 
 ---
 
