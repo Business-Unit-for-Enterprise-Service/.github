@@ -19,7 +19,7 @@
 
 ## Naming note
 
-- 建议后续改名为 `Business-Unit-for-Enterprise-Service-Center`。
+- 因 GitHub 组织名长度限制，保留 `Business-Unit-for-Enterprise-Service`；语义为 Enterprise Service Center。
 
 ---
 
